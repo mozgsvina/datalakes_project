@@ -1,6 +1,6 @@
 # Purpose of this Folder
 
-This folder contains resulting data of STEDI Human Balance Analytics project for Udacity Data Engineering with AWS cource, including starter code, sql create statements, glue jobs and screenshot of querying in Athena.
+This folder contains resulting data of STEDI Human Balance Analytics project for Udacity Data Engineering with AWS course, including starter code, sql create statements, glue jobs and screenshot of querying in Athena.
 
 Upload the directories to your S3 bucket and use them to create your Glue tables.
 
